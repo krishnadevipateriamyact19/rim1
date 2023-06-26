@@ -84,6 +84,4 @@ public class PGPEncryptionExample {
         } catch (IOException | PGPException e) {
             e.printStackTrace();
         }
-    }
-}
-``
+   
